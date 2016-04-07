@@ -1,1 +1,1 @@
-require('./server.js');
+require('./style.css');
