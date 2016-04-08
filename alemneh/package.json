@@ -8,5 +8,11 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "css-loader": "^0.23.1",
+    "express": "^4.13.4",
+    "style-loader": "^0.13.1"
+  }
 }
